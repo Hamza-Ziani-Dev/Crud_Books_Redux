@@ -1,0 +1,21 @@
+{
+    "books": [{
+            "id": 1,
+            "title": "Angular JS",
+            "price": 200,
+            "description": "Ang"
+        },
+        {
+            "id": 2,
+            "title": "React JS",
+            "price": 150,
+            "description": "Ang"
+        },
+        {
+            "id": 3,
+            "title": "Vue JS",
+            "price": 300,
+            "description": "Ang"
+        }
+    ]
+}
